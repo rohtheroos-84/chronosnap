@@ -256,29 +256,6 @@ npm run build
 
 ---
 
-## 📄 License
-
-This project was created with Google AI Studio and is available for personal and educational use.
-
----
-
-## 🙏 Acknowledgments
-
-- **Google Gemini Team** for the powerful 2.5 Flash Image model
-- **AI Studio** for the initial project scaffolding
-- **Tailwind CSS** for rapid styling
-- **Vite** for lightning-fast development
-
----
-
-## 🔗 Links
-
-- **AI Studio App:** https://ai.studio/apps/drive/1dJxT4q49VRUsCgii4T2HWbUO8QXENuRX
-- **Google Gemini Docs:** https://ai.google.dev/
-- **Repository:** https://github.com/rohtheroos-84/chronosnap
-
----
-
 <div align="center">
 
 **Transform your moments across time** ⏳
