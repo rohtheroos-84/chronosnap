@@ -1,0 +1,7 @@
+{
+  "name": "ChronoSnap: Time Travel Booth",
+  "description": "Snap a selfie and travel through time! Uses Gemini to reimagine you in historical eras.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
